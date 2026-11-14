@@ -60,12 +60,6 @@ src/
 └── main.tsx         # Ponto de entrada
 ```
 
-## Como personalizar
-
-- **Projetos:** edite a lista em `src/data/projects.ts`.
-- **Contato:** substitua os links de exemplo em `src/pages/Contato.tsx` pelos seus dados reais (GitHub, LinkedIn e e-mail).
-- **Cores:** altere as variáveis no início de `src/index.css`.
-
 ## Autor
 
 Marcelo Alves — Estudante de Análise e Desenvolvimento de Sistemas (UNINASSAU Olinda).
